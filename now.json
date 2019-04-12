@@ -1,0 +1,16 @@
+{
+  "name": "Old Town Road",
+  "alias": [
+    "old-town-road",
+    "oldTownRoad",
+    "wrangler",
+    "ride",
+    "horse",
+    "horsesInTheBack"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
